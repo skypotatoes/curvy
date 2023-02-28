@@ -1,0 +1,28 @@
+{
+  "name": "curvy",
+  "version": "1.0.0",
+  "description": "curvy bezier snake",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skypotatoes/curvy.git"
+  },
+  "keywords": [
+    "curvy",
+    "bezier",
+    "snakes"
+  ],
+  "author": "skypotatoes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skypotatoes/curvy/issues"
+  },
+  "homepage": "https://github.com/skypotatoes/curvy#readme",
+  "dependencies": {
+    "bezier-js": "^6.1.3"
+  }
+}
